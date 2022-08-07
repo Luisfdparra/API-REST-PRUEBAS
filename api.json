@@ -2,16 +2,17 @@
     "autores": [
 
     
-    { "id": 1, "nombre": "José Manuel Alarcón" },
-    { "id": 2,  "nombre": "campusMVP" }
+    { "id": 1, "nombre": "Luis Fernando Parra Rodriguez" },
+    { "id": 2,  "nombre": "SGPS" }
     ],
 
     "posts": [
       { "id": 1, "titulo": "Cómo crear una API falsa en 1 minuto", "autor": 1},
-      { "id": 2, "titulo": "Aprender a programar con campusMVP", "autor": 2}
+      { "id": 2, "titulo": "Aprender a programar con SGPS", "autor": 2}
     ],
 
       "comentarios": [ 
-      { "id": 1, "mensajes": "!Los mejores cursos que he hecho!", "postId": 2 }
+      { "id": 1, "mensajes": "!Los mejores cursos que he hecho!", "postId": 2 },
+      { "id": 2, "mensajes": "!Los mejores cursos que he hecho LFP!", "postId": 2 }
     ]
 }
