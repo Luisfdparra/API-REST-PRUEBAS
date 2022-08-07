@@ -1,0 +1,17 @@
+{
+    "autores": [
+
+    
+    { "id": 1, "nombre": "José Manuel Alarcón" },
+    { "id": 2,  "nombre": "campusMVP" }
+    ],
+
+    "posts": [
+      { "id": 1, "titulo": "Cómo crear una API falsa en 1 minuto", "autor": 1},
+      { "id": 2, "titulo": "Aprender a programar con campusMVP", "autor": 2}
+    ],
+
+      "comentarios": [ 
+      { "id": 1, "mensajes": "!Los mejores cursos que he hecho!", "postId": 2 }
+    ]
+}
